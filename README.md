@@ -1,6 +1,6 @@
 <!-- Intro -->
-### Olá, eu sou Leonardo Lopes 🖖.
-
+<h1 align="center">Olá, eu sou Leonardo Lopes.</h1>
+<h3 align="center">Sempre em busca de aperfeiçoamento!</h3>
 <hr>
 
 <h3>Conhecimentos</h3>
