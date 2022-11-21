@@ -7,8 +7,9 @@
 <p>
 <img  alt="html5"  src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" width="100px" height="30px" />
 <img  alt="CSS"  src="https://img.shields.io/badge/-CSS 3-1572B6?style=flat-square&logo=CSS3&logoColor=white" width="100px" height="30px"/>
-<img  alt="Bootstrap"  src="https://img.shields.io/badge/-Bootstrap-5e4d85?style=flat-square&logo=Bootstrap&logoColor=white" width="100px" height="30px"/>
 <img  alt="javascript"  src="https://img.shields.io/badge/-Javascript-ffff00?style=flat-square&logo=javascript&logoColor=black" width="100px" height="30px"/>
+<img  alt="Bootstrap"  src="https://img.shields.io/badge/-Bootstrap-5e4d85?style=flat-square&logo=Bootstrap&logoColor=white" width="100px" height="30px"/>
+<img  alt="sass"  src="https://img.shields.io/badge/-Sass-ffff00?style=flat-square&logo=sass&logoColor=black" width="100px" height="30px"/>
 <img  alt="jquery"  src="https://img.shields.io/badge/-Jquery-FFFFFF?style=flat-square&logo=jquery&logoColor=1D2D39" width="100px" height="30px"/>
 <br>
 
