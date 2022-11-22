@@ -13,11 +13,12 @@
   <img  alt="javascript" src="https://img.shields.io/badge/-Javascript-ffff00?style=flat-square&logo=javascript&logoColor=black" width="auto" height="35px"/>
  
   
+<!--
 <br/>
   <img  alt="angular" src="https://img.shields.io/badge/-Angular-DD1B16?style=flat-square&logo=angular&logoColor=white"  width="auto" height="35px"/>
   <img  alt="sass" src="https://img.shields.io/badge/-Sass-C36291?style=flat-square&logo=sass&logoColor=black" width="auto" height="35px"/>
   <img  alt="typeScript" src="https://img.shields.io/badge/-TypeScript-0074C2?style=flat-square&logo=typescript&logoColor=white" width="auto" height="35px"/>
-   
+-->   
   
 <br>
   <!-- <img  alt="Blazor" src="https://img.shields.io/badge/-Blazor-68217A?style=flat-square&logo=Blazor&logoColor=white" width="100px" height="30px"/> -->
