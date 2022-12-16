@@ -1,8 +1,8 @@
-<!-- Intro -->
-<h1 align="center">Olá, eu sou Leonardo Lopes.</h1>
-<h3 align="center">Sempre em busca de aperfeiçoamento!</h3>
+<!--
+<h1 align="center"></h1>
+<h3 align="center"></h3>
 <hr>
-
+-->
 
 
 <h2>Conhecimentos 📚</h2>
