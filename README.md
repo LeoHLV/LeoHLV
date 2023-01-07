@@ -1,10 +1,4 @@
-<!--
-icones para conhecimentos -> https://simpleicons.org/
-
--->
-
 <h2>Conhecimentos 📚</h2>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" />
 </a>
@@ -32,14 +26,28 @@ icones para conhecimentos -> https://simpleicons.org/
 <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" height="40" />
 </a>
-
 <p>
 <img  alt="TSQL" src="https://img.shields.io/badge/-Microsoft SQL Server-2E3538?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
 <img  alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img  alt="VS" src="https://img.shields.io/badge/-VS IDE-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img  alt="VSC" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-</p>
+</p>  
 <hr>
+
+<!--
+<h3>ETC</h3>
+<p>
+<a href="" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" height="40" />
+</a>
+<a href="" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40" />
+</a>
+<a href="" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="40" />
+</a>
+</p>
+-->
 
 <!-- Stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoHLV&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
