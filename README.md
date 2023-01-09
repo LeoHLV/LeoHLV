@@ -1,8 +1,9 @@
+<!--
 <h2>Estudando 📚</h2>
 <a href="https://angular.io/docs" target="_blank">
   <img title="Blazor" src="https://cdn.worldvectorlogo.com/logos/blazor.svg" height="40" />
 </a>
-
+-->
 
 <h2>Conhecimento <img src="https://www.inventicons.com/uploads/iconset/1345/wm/512/Human-Brain-59.png" height="30px"></h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
