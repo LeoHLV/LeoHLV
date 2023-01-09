@@ -2,13 +2,6 @@
 <a href="https://angular.io/docs" target="_blank">
   <img title="Blazor" src="https://cdn.worldvectorlogo.com/logos/blazor.svg" height="40" />
 </a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img title="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="40" />
-</a>
-<a href="https://angular.io/docs" target="_blank">
-  <img title="Angular" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" height="40" />
-</a>
-
 
 
 <h2>Conhecimento <img src="https://www.inventicons.com/uploads/iconset/1345/wm/512/Human-Brain-59.png" height="30px"></h2>
@@ -38,14 +31,9 @@
 <a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
   <img title="Entity Framework" src="https://www.dmcinfo.com/Portals/0/Blog%20Pictures/entity_image.png" height="40px" />
 </a>
-
-
-<!--
 <a href="https://swagger.io/docs/" target="_blank">
   <img title="SWAGGER" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-1.jpg" height="40px" />
 </a>
--->
-
 
 <p>
 <img  alt="TSQL" src="https://img.shields.io/badge/-Microsoft SQL Server-2E3538?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
@@ -54,22 +42,3 @@
 <img  alt="VSC" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </p>  
 <hr>
-
-
-<!--
-<h3>ETC</h3>
-<p>
-<a href="" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" height="40" />
-</a>
-<a href="" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40" />
-</a>
-<a href="" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="40" />
-</a>
-</p>
--->
-
-<!-- Stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoHLV&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
