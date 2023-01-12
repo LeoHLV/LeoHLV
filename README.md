@@ -1,9 +1,9 @@
-<!--
+
 <h2>Estudando 📚</h2>
 <a href="https://angular.io/docs" target="_blank">
-  <img title="Blazor" src="https://cdn.worldvectorlogo.com/logos/blazor.svg" height="40" />
+  <img title="Svelte" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" height="40" />
 </a>
--->
+
 
 <h2>Conhecimento <img src="https://www.inventicons.com/uploads/iconset/1345/wm/512/Human-Brain-59.png" height="30px"></h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -29,12 +29,7 @@
 <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank">
   <img title=".NET Core" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="40" />
 </a>
-<a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
-  <img title="Entity Framework" src="https://www.dmcinfo.com/Portals/0/Blog%20Pictures/entity_image.png" height="40px" />
-</a>
-<a href="https://swagger.io/docs/" target="_blank">
-  <img title="SWAGGER" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-1.jpg" height="40px" />
-</a>
+
 
 <p>
 <img  alt="TSQL" src="https://img.shields.io/badge/-Microsoft SQL Server-2E3538?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
