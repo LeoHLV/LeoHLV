@@ -1,6 +1,6 @@
 
 <h2>Estudando 📚</h2>
-<a href="https://angular.io/docs" target="_blank">
+<a href="https://svelte.dev/docs" target="_blank">
   <img title="Svelte" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" height="40" />
 </a>
 
