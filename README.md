@@ -1,40 +1,32 @@
-
-<h2>Estudando 📚</h2>
-<a href="https://svelte.dev/docs" target="_blank">
-  <img title="Svelte" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" height="40" />
-</a>
-
-
-<h2>Conhecimento <img src="https://www.inventicons.com/uploads/iconset/1345/wm/512/Human-Brain-59.png" height="30px"></h2>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img title="HTML" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img title="CSS" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" />
-</a>
-<a href="https://sass-lang.com/documentation/" target="_blank">
-  <img title="SASS" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img title="JavaScript" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" />
-</a>
+<h2>Conhecimento <img src="https://www.inventicons.com/uploads/iconset/1345/wm/512/Human-Brain-59.png" height="30px">
+  <hr/>
+  <p align="left">
+    <img title="HTML" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" />
+    <img title="CSS" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" />
+    <img title="JavaScript" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" />   
+    <img title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  height="40" />
+    <img title="Swagger" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger" height="40" />
+    <img title="bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="40" />
+    <img title=".NET Core" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="40" />
+    <img title="C#" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" />
+    <img title="SQL Server" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" height="40" />
+    <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
+    
+</h2>
 
 
-<a href="https://getbootstrap.com/" target="_blank">
-  <img title="bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="40" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img title="C#" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" />
-</a>
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank">
-  <img title=".NET Core" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="40" />
-</a>
 
-
-<p>
-<img  alt="TSQL" src="https://img.shields.io/badge/-Microsoft SQL Server-2E3538?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
-<img  alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-<img  alt="VS" src="https://img.shields.io/badge/-VS IDE-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<img  alt="VSC" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<!-- ####### Mini icons ####### -->
+<p align="left">
+    <img  alt="VS" src="https://img.shields.io/badge/-VS IDE-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+    <img  alt="VSC" src="https://img.shields.io/badge/-VS Codium-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img  alt="EF" src="https://img.shields.io/badge/-Entity Framework-007ACC?style=flat-square&logo=Entity Framework&logoColor=white"/>
 </p>  
-<hr>
+
+
+
+<!-- ####### HUD ####### -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoHLV&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
+
+
